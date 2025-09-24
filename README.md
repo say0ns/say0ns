@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simón</h1>
+<h1 align="center">Hi, I'm Simón</h1>
 <h3 align="center">A passionate data scientist from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=say0ns&label=Profile%20views&color=0e75b6&style=flat" alt="say0ns" /> </p>
